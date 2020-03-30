@@ -1,5 +1,4 @@
 1st created txt
 *modified once
 *modified twice
-*modified for merge
 *modified for rebase
